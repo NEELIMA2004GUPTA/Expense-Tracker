@@ -31,9 +31,9 @@ src/
 │   ├── TransactionsList.jsx
 │   └── ChartComponent.jsx
 ├── redux/
-│   ├── transactionSlice.jsx
-│   ├── authSlice.jsx
-│   ├── store.jsx
+│   ├── transactionSlice.js
+│   ├── authSlice.js
+│   ├── store.js
 │   └── localStorage.js
 ├── App.jsx
 └── App.css
